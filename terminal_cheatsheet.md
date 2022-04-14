@@ -1,0 +1,5 @@
+- cd -> go to folder/location, if blank return to root
+- pwd -> where am I
+- ls -> what's here, includes -a for all and -l to include hidden
+- touch -> makes a file
+- mkdir -> makes a directory
